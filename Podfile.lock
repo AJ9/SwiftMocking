@@ -1,0 +1,10 @@
+PODS:
+  - SwiftMock (0.0.3)
+
+DEPENDENCIES:
+  - SwiftMock
+
+SPEC CHECKSUMS:
+  SwiftMock: 3cd023755bbd81c4e2bb9acecacc5ec002702e92
+
+COCOAPODS: 0.38.2

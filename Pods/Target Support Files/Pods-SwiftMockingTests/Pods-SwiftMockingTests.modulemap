@@ -1,0 +1,6 @@
+framework module Pods_SwiftMockingTests {
+  umbrella header "Pods-SwiftMockingTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
